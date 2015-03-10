@@ -1,7 +1,8 @@
 # Yapinator Javascript CSS Selector Engine
 
 
-yapinator is a pure-JavaScript standalone CSS selector engine designed to be easily dropped in to a host library.
+
+Yapinator is a pure-JavaScript standalone CSS selector engine designed to be easily dropped in to a host library.
 
 https://github.com/stannesi/yapinator
 https://github.com/yapi/yapinator
